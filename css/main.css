@@ -2121,7 +2121,7 @@ blockquote:after {
 }
 
 #carousel-dark {
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.27);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0);
 }
 
 .nav-pills.nav > li > a {
